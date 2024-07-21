@@ -10,6 +10,8 @@ The idea came from wanting to create a siimple 'turn key' app that can be used f
   </tr>
 </table>
 
+You are free to modify anything you like, this is intended only for my educational purpose and not intended for production. 
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
