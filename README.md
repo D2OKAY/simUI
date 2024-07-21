@@ -12,20 +12,23 @@ The idea came from wanting to create a siimple 'turn key' app that can be used f
 
 You are free to modify anything you like, this is intended only for my educational purpose and not intended for production. Just needed a quick simpueUI to connect to my local [Ollama](https://ollama.com/). and I would be updating this as I use it more as it is useful to me. 
 
-# Future Tasks 
+I started with calling this "Ollama Chat" and that is what the base code will show. But theoretically it can be changed to anything really. 
 
-I started with calling this "Ollama Chat" and that is what the base code will show. But theoretically it can be changed to anything really. My priories would be 
-Planned Future Tasks : I am planning to work on this as a base to further enhance the UI focused on student's use, few things that I've noted to work on:
+# Future Tasks : I am planning to work on this as a base to further enhance the UI focused on simple use, few things that I've noted to work on:
 
 * (Priority) name customization directly from UI 
 * (Priority) output templating & size (could be reactive)
 * (Memory) Option to change number of past conversations to remember (adds to the instructions)
 * (UI enhancement) Increase the chat-box size when the Settings and Prompt menus are closed. 
 * (UI enhancement) Able to customize backgrounds with personalized pictures and drawings
-* (Functionality) Going to be looking into possible ways to increase its 'fun'uality. Maybe text to image? or even educational games with an AI straight from the UI.
-* (Functionality) Few basic chatbot templates (expert in different subjects, personalized chat)
-* (Functionality) Educational website searches (links that can not be altered without admin pw)
-* (Functionality) Additional language capability
+* (Functionality) Going to be looking into possible ways to add useful mods (educational games, interactive educational contents..) 
+* (Functionality) Few basic chatbot templates (expert in different subjects, personalized chat, also looking into 'Lorax')
+* (Functionality) Educational website searches (REPO of links that can be housed that are educational and free) 
+* (Functionality) Enhancing more language capabilities
+
+  But honestly this is not my full time job (wish it was..) but for now its what I am doing to further my studies.
+
+  Happy exploring! 
 
 ## Prerequisites
 
