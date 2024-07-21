@@ -39,7 +39,7 @@ To use simpleUI, follow these steps:
 
 1. In terminal, run the application
    ```
-   cd simpleUI/Code
+   cd simpleUI/Code   # Make sure you are in correct directory
    npm start
    ```
 
