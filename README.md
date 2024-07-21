@@ -5,9 +5,8 @@ The idea came from wanting to create a siimple 'turn key' app that can be used f
 
 <table>
   <tr>
-    <td><img src=".github/UI_image1.png" alt="Main Interface" width="400"></td>
-    <td><img src=".github/UI_image2.png" alt="Settings Panel" width="400"></td>
-    <td><img src=".github/UI_image3.png" alt="Settings Panel" width="400"></td>
+    <td><img src=".github/UI_image1.png" alt="Main Interface" width="500"></td>
+    <td><img src=".github/UI_image2.png" alt="Settings Panel" width="500"></td>
   </tr>
 </table>
 
