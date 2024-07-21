@@ -3,6 +3,8 @@ A Simple UI design for Chat interface for Ollama, built with Electron.
 
 The idea came from wanting to create a siimple 'turn key' app that can be used for students (my niece). For details on the story you can check out my article [Ollama UI for Students (Part 2)](link). The UI allows customization of the colors to make it quite different from someone else. 
 
+![UI_image](.github/ui_image1.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
