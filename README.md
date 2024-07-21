@@ -14,7 +14,9 @@ You are free to modify anything you like, this is intended only for my education
 
 I started with calling this "Ollama Chat" and that is what the base code will show. But theoretically it can be changed to anything really. 
 
-# Future Tasks : I am planning to work on this as a base to further enhance the UI focused on simple use, few things that I've noted to work on:
+# Future Tasks : 
+
+I am planning to work on this as a base to further enhance the UI focused on simple use, few things that I've noted to work on:
 
 * (Priority) name customization directly from UI 
 * (Priority) output templating & size (could be reactive)
