@@ -45,7 +45,7 @@ To use simpleUI, follow these steps:
 
 ## Building simplchatUI
 
-To build an executable file for Ollama Chat, use the following command:
+To build an executable file for simpleUI, use the following command:
 
 ```
 npm run build
