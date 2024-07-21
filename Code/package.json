@@ -1,0 +1,42 @@
+{
+    "name": "ollama-chat",
+    "version": "1.0.0",
+    "description": "A simple chat interface for Ollama",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build": "electron-builder"
+    },
+    "dependencies": {
+        "node-fetch": "^2.6.1",
+        "marked": "^4.0.12"
+    },
+    "devDependencies": {
+        "electron": "^13.0.0",
+        "electron-builder": "^24.13.3"
+    },
+    "build": {
+        "appId": "com.example.ollama-chat",
+        "productName": "Ollama Chat",
+        "directories": {
+            "output": "dist"
+        },
+        "files": [
+            "main.js",
+            "index.html",
+            "node_modules"
+        ],
+        "mac": {
+            "target": [
+                {
+                    "target": "dmg",
+                    "arch": [
+                        "x64",
+                        "arm64"
+                    ]
+                }
+            ],
+            "icon": "build/icon.icns"
+        }
+    }
+}
