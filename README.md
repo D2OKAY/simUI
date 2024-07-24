@@ -76,4 +76,4 @@ This will create a distributable package in the `dist` directory.
 
 ## License
 
-This project uses the following license: [MIT License](LICENSE)
+This project uses the following license: [Apache License](LICENSE)
