@@ -1,8 +1,5 @@
-# simUI 
-A Simple UI design for Chat interface for Ollama, built with Electron.
-
-Simple enough to change the name of the UI itself (repo name stays the same)
-- simpleUI -> simUI {too many repositories with 'simpleUI'}
+# seasyUI 
+A Easy UI design for Chat interface for Ollama, built with Electron.
 
 The idea came from wanting to create a siimple 'turn key' app that can be used for students (my niece). For details on the story you can check out my article [Ollama UI for Students (Part 2) - Not active yet](link). The UI allows customization of the colors to make it quite different from someone else. 
 
@@ -13,7 +10,7 @@ The idea came from wanting to create a siimple 'turn key' app that can be used f
   </tr>
 </table>
 
-You are free to modify anything you like, this is intended only for my educational purpose and not intended for production. Just needed a quick simpueUI to connect to my local [Ollama](https://ollama.com/). and I would be updating this as I use it more as it is useful to me. 
+You are free to modify anything you like, this is intended only for educational purpose and not intended for production. Just needed a quick simpueUI to connect to my local [Ollama](https://ollama.com/). and I would be updating this as I use it more as it is useful to me. 
 
 I started with calling this "Ollama Chat" and that is what the base code will show. But theoretically it can be changed to anything really. 
 
