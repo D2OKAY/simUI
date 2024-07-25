@@ -10,6 +10,7 @@ The idea came from wanting to create a siimple 'turn key' app that can be used f
   </tr>
 </table>
 
+
 You are free to modify anything you like, this is intended only for educational purpose and not intended for production. Just needed a quick simpueUI to connect to my local [Ollama](https://ollama.com/). and I would be updating this as I use it more as it is useful to me. 
 
 I started with calling this "Ollama Chat" and that is what the base code will show. But theoretically it can be changed to anything really. 
