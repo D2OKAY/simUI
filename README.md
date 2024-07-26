@@ -20,14 +20,15 @@ I started with calling this "Ollama Chat" and that is what the base code will sh
 These are recommend models that are hosted here: Ollama(Deeokay) where the primary goals were focused on models being lightweight and included the educational instructions built in to get you started.
 
 In your terminal, you can type "ollama pull deeokay/{model_name}" and it will download it. Once it is downloaded, you can use the simpleUI to talk to it. That's it! 
-*(TYPE1) qwen1.5mini : from Alibaba (Base: Qwen1.5 5B) 1.6GB
-*(TYPE2) phi3student : from Microsoft (Base: Phi3 Mini) 1.9GB
-*(TPYE1) qwen2minilingual : form Alibaba (Base: Qwen2 7B) 2.6GB
-*(TYPE2) mistrialstudent : from Mistral (Base: Mistral 7b) 2.7GB
-*(TYPE1) qwen2student : form Alibaba (Base: Qwen2 7B) 3.0GB
-*(TYPE1) gemma2student : from Google (Base: Gemma2 9B) 3.1GB
-*(TYPE2) llama3student : from Meta (Base: Llama3 8B) 3.3GB
-*(TYPE2) qwen2multilingual : form Alibaba (Base: Qwen2 7B) 3.8GB
+
+* (TYPE1) qwen1.5mini : from Alibaba (Base: Qwen1.5 5B) 1.6GB
+* (TYPE2) phi3student : from Microsoft (Base: Phi3 Mini) 1.9GB
+* (TPYE1) qwen2minilingual : form Alibaba (Base: Qwen2 7B) 2.6GB
+* (TYPE2) mistrialstudent : from Mistral (Base: Mistral 7b) 2.7GB
+* (TYPE1) qwen2student : form Alibaba (Base: Qwen2 7B) 3.0GB
+* (TYPE1) gemma2student : from Google (Base: Gemma2 9B) 3.1GB
+* (TYPE2) llama3student : from Meta (Base: Llama3 8B) 3.3GB
+* (TYPE2) qwen2multilingual : form Alibaba (Base: Qwen2 7B) 3.8GB
 
 I am planning to work on this as a base to further enhance the UI focused on simple use, few things that I've noted to work on:
 
