@@ -30,13 +30,6 @@ In your terminal, you can type "ollama pull deeokay/{model_name}" and it will do
 * (TYPE2) llama3student : from Meta (Base: Llama3 8B) 3.3GB
 * (TYPE2) qwen2multilingual : form Alibaba (Base: Qwen2 7B) 3.8GB
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="padding: 0; width: 50%;">TYPE 1 MODELFILE </td>
-    <td style="padding: 0; width: 50%;">TYPE 2 MODELFILE </td>
-  </tr>
-</table>
-
 I am planning to work on this as a base to further enhance the UI focused on simple use, few things that I've noted to work on:
 
 
