@@ -1,7 +1,7 @@
 # Easy simUI 
 A Easy UI design for Chat interface for Ollama, built with Electron.
 
-The idea came from wanting to create a siimple 'turn key' app that can be used for students (my niece). For details on the story you can check out my article [Ollama UI for Students (Part 2) - Not active yet](link). The UI allows customization of the colors to make it quite different from someone else. 
+The idea came from wanting to create a siimple 'turn key' app that can be used for students (my niece). For details on the story you can check out my article [Ollama UI for Students (Part 2)](https://medium.com/@deeokay/ollama-ui-for-students-personalized-ai-story-part-2-101441cf090d). The UI allows customization of the colors to make it quite different from someone else. 
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
